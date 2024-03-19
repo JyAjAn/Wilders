@@ -3,7 +3,7 @@ import chalk from 'chalk';
 const studentNameOne = 'Charlie';
 const studentNameTwo = 'Curtis';
 const studentNametree = 'Van';
-const studentNamefour = 'Colline';
+const studentNamefour = 'Coline';
 
 console.log(chalk.blue(studentNameOne));
 console.log(chalk.red(studentNameTwo));
